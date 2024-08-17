@@ -9,7 +9,7 @@
 )](https://www.linkedin.com/in/joaogabriel1229)
 [![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/joaogabriel1229/)
-[![Gmail](jgmarques153@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jgmarques153@gmail.com)
 
 ![João Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogabriel1229&show_icons=true&theme=dracula)
 
