@@ -1,4 +1,5 @@
-- 👋 Olá, Sou João Gabriel
+Olá sou João Gabriel!
+
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 
