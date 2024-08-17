@@ -1,6 +1,7 @@
-### Olá eu sou João Gabriel!
+### Olá eu sou João Gabriel 👋🏼
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
+- 💻 Fascinado por tecnologia 
 
 
 <!---
